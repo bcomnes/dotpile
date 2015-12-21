@@ -13,6 +13,8 @@
 
 Put your dotfiles into a pile
 
+Dotfiles are a massive source of configuration entropy.  Rather than try to serve every possible dotfile management strategy, `dotpiles` bootstraps a simple `~/bashrc.d/` style management system.
+
 ## Install
 
 ```
