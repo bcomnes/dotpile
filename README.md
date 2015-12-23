@@ -26,7 +26,7 @@ Dotfiles are a massive source of configuration entropy.  Rather than try to serv
 3. If the user is not boostraped, handle existing `~/.bash_profile` and `~/.bashrc` files and boostrap the new rc files and `~/bashrc.d/` directory.
 4. If the user is already boostraped, do nothing.  (Details exposed via API or flag).
 
-At this point, a second set of scripts can be run to compose
+At this point, the script/process of your choice can compose the contents of `~/bashrc.d/`.
 
 ## Install
 
