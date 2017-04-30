@@ -29,6 +29,6 @@
     "@bret/truthy": "^1.0.1",
     "map-async": "^0.1.1",
     "run-series": "^1.1.4",
-    "username": "^1.0.1"
+    "username": "^2.3.0"
   }
 }
